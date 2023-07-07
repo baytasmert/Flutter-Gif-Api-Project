@@ -14,7 +14,7 @@ class MyApp extends StatefulWidget {
   @override
   State<MyApp> createState() => _MyAppState();
 }
-//başla a
+//başla
 class _MyAppState extends State<MyApp> {
 var response;
 var parsedResponse;
